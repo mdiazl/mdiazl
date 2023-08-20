@@ -5,7 +5,7 @@
 
 Ingeniero Informático +10 años de experiencia como **DBA** en SQL Server y Master en Direccción +5 años de experiencia aplicando **ISO 20000**
 
-**Como programador FrontEnd** trabajo en tecnología React y domino HTML, CSS, JS, Markdown, API REST, Git
+**Como programador FrontEnd** trabajo en tecnología React y domino HTML, CSS (Grid, Flexbox), JS, JSX, Markdown, API REST, Git
 
 **Como profesor Universitario** impacto asignaturas técnicas afines con el desarrollo FrontEnd y la Administración de Bases de Datos
 
