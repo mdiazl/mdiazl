@@ -1,4 +1,13 @@
-### Michel Diaz Llerena 👋
+### Hola...
+### <div align="right"> Msc. Ing. Michel  👋 </div>
+
+##### Director, Profesor, Administrador de Bases de Datos y Programador FrontEnd.
+
+Ingeniero Informático +10 años de experiencia como **DBA** en SQL Server y Master en Direccción +5 años de experiencia aplicando **ISO 20000**
+
+**Como programador FrontEnd** trabajo en tecnología React y domino HTML, CSS, JS, Markdown, API REST, Git
+
+**Como profesor Universitario** impacto asignaturas técnicas afines con el desarrollo FrontEnd y la Administración de Bases de Datos
 
 <!--
 **mdiazl/mdiazl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
